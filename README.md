@@ -2,7 +2,7 @@
 [![TensorFlow 1.1](https://img.shields.io/badge/tensorflow-2.4-blue.svg)](https://github.com/tensorflow/tensorflow/releases/tag/v1.15.2)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/RituYadav92/NuScenes_radar_RGBFused-Detection/blob/master/LICENCE)
 
-## Unsupervised Flood Detection on SAR Time Series using Variational Autoencoder
+## CLVAE: Unsupervised Flood Detection on SAR Time Series using Variational Autoencoder and Contrastive Learning
 
 https://doi.org/10.48550/arXiv.2212.03675
 
